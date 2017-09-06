@@ -13,7 +13,7 @@
         </dependency>
         <!-- RPC Server -->
         <dependency>
-            <groupId>cn.itcast.rpc</groupId>
+            <groupId>cn.kidcools.rpc</groupId>
             <artifactId>rpc-server</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
